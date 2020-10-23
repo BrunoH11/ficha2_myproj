@@ -1,0 +1,4 @@
+Este é o exemplo de um ficheiro de texto file3
+
+Exercicio 8 alterar ficheiro3
+Õbjetivo acrescentar 2 linhas
