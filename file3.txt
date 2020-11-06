@@ -3,6 +3,7 @@ Este é o exemplo de um ficheiro de texto file3
 Exercicio 8 alterar ficheiro3
 Õbjetivo acrescentar 2 linhas
 
+<<<<<<< HEAD
 
 <h2>Bebidas</h2>
 
@@ -21,3 +22,14 @@ Exercicio 8 alterar ficheiro3
 
 
 
+=======
+<h1>Lista de coisas</h1>
+
+<h2>Comidas</h2>
+
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+</ul>
+>>>>>>> NovaFeature
