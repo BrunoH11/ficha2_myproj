@@ -2,5 +2,9 @@ Fiz uma alteração dentro do ficheiro 1
 
 Alteraçoes efetuadas no branch NovaFeature
 
+<<<<<<< HEAD
 
 Alteração no Branch NovaFeature
+=======
+Alteração no Branch Master
+>>>>>>> master
