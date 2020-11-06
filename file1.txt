@@ -1,3 +1,5 @@
 Fiz uma alteração dentro do ficheiro 1
 
 Alteraçoes efetuadas no branch NovaFeature
+
+Alteração no Branch Master
